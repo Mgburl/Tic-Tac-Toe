@@ -5,7 +5,8 @@ As The Name Says,
 This Is Tic-Tac-Toe With 2 Gamemodes Single Player With Varying Difficulties
 & Two Players (Not Online).
 
-I'm A Beginner To IOS Development & Coding As A Whole. I Coded The Main Game Mechanics By Following:
+I'm Currently Learning IOS Development & Coding As A Whole. I Coded The Main Game Mechanics
+By Following:
 
 "Sean Allen's SwiftUI Tic Tac Toe | Portfolio Projects" 
 
@@ -16,9 +17,9 @@ This Tutorial Taught Me How To Create The Game Board With A LazyVGrid And Keep T
 
 Both The Player's & Computer's Current Moves In An Array Which Allowed Me To Input All
 
-The Possible Win Conditons Into Another Array Which Then Can Be Compared Against 
+The Possible Win Conditons Into Another Array Which Then Can Be Compared
 
-The Win Conditions To See If Any Of The Conditions Are Met
+To See If Any Of The Conditions Are Met
 
 Based On The Current Index On The Board...
 
