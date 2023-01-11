@@ -12,7 +12,7 @@ By Following:
 
 https://www.youtube.com/watch?v=MCLiPW2ns2w&t=696s
 
-This Tutorial Taught Me How To Create The Game Board With A LazyVGrid And Keep Track Of The
+This Tutorial Taught Me How To Create The Game Board With A LazyVGrid And Keep Track Of 
 
 
 Both The Player's & Computer's Current Moves In An Array Which Allowed Me To Input All
